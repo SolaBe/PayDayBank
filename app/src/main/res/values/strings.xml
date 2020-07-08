@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">PayDayBank</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="first_name_hint">First name</string>
+    <string name="last_name_hint">Last name</string>
+    <string name="phone_hint">Phone</string>
+    <string name="email_hint">Email</string>
+    <string name="dob_hint">Date of birth</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="login_failder_message">Login failed</string>
+    <string name="email_required_message">Email is required field!</string>
+    <string name="email_not_valid_message">Email is not valid!</string>
+    <string name="password_required_message">Password is required field!</string>
+    <string name="short_password_message">Password too short!</string>
+    <string name="first_name_required_message">First name is required</string>
+    <string name="last_name_required_message">Last name is required</string>
+    <string name="phone_required_message">Phone is required</string>
+    <string name="dob_reguired_message">Date of birth required</string>
+    <string name="earned_text">Earned:</string>
+    <string name="spent_text">Spent:</string>
+    <string name="total_text">Total:</string>
+    <string name="view_all_transactions_text">View all transactions</string>
+    <string name="nothing_to_show_message">Nothing to show</string>
+    <string name="monthly_dashboard_title">Monthly dashboard</string>
+    <string name="you_have_not_expense_for_this_month_text">You have not expense for selected month</string>
+    <string name="expense_categories_error_text">Can\'t show expenses for this month</string>
+    <string name="category_text">Category: %s</string>
+    <string name="date_text">Date: %s</string>
+    <string name="amount_text">Amount: %s</string>
+    <string name="vendor_text">Vendor: %s</string>
+    <string name="transaction_history_title">Transaction history</string>
+    <string name="registration_error_message">Registration failed</string>
+    <string name="logout_menu_text">Logout</string>
+</resources>

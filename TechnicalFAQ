@@ -1,0 +1,15 @@
+• How long did you spend on the coding test? 
+Answer: Coding test took at about 14h. (Planning and design architecture - 3h. Implementation - 9h.)
+• What would you add to your solution if you had more time? If you didn't spend much time on the coding test then use this as an opportunity to explain what you would add.
+Answer: If I had more time I would like to finish realizing backstack manager for fragments and improve design of application. 
+• What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.
+Answer: kotlin extensions for providing ViewModel
+ val viewModel by viewModels<MyViewModel>()
+ instead of 
+val viewModel = ViewModelProvider(this, viewModelFactory).get(ViewModel::class.java)
+• How would you track down a performance issue in production? Have you ever had to do this?
+Answer: Performance and stress testing on staging servers before release to production to prevent possible issues. For tracking production activities can be used Android profiler.
+• How would you debug issues related to API usage? Can you give us an example?
+Answer: I have used Postman for API issues debug process. Example: selecting items in specified time period, pagination.
+• How would you improve the c that you just used?
+Answer: I would add request for calculating total expences and earnings by category for improving performance of dashboard view.
